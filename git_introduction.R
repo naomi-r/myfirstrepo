@@ -1,5 +1,5 @@
 # send commands to the terminal
 system(
-  'git config --global user.email "YOUR USER NAME HERE";
-   git config --global user.name "YOUR NAME HERE";'
+  'git config --global user.email "d.navarro@unsw.edu.au";
+   git config --global user.name "Danielle Navarro";'
 )
