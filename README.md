@@ -50,6 +50,6 @@ Plus a lot of other things, like adding animated GIFs...
 
 ![Adding gifs](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-
+![Adding gifs](https://media.giphy.com/media/3ohc0WUqyvkVmFyZxe/giphy.gif)
 
 
